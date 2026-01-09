@@ -1,0 +1,3 @@
+[submodule "extras/kosync-dotnet"]
+	path = extras/kosync-dotnet
+	url = https://github.com/jberlyn/kosync-dotnet.git
